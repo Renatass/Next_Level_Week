@@ -1,0 +1,23 @@
+{
+  "name": "nlw",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renatass/Next_Level_Week.git"
+  },
+  "author": "Renata_Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renatass/Next_Level_Week/issues"
+  },
+  "homepage": "https://github.com/Renatass/Next_Level_Week#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
